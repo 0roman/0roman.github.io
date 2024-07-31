@@ -1,5 +1,3 @@
-Here you can say lots of fun things about your site.
+Welcome to my security diary. After some years in the industry I also decided to start a blog.
 
-Maybe say a some things about yourself.
-
-Or maybe what you plan to blog about.
+During my last job search, I noticed that degrees, certificates and professional experience are not always enough to prove your technical expertise. Nowadays, companies also want to see publications on critical vulnerabilities. This can be challenging when you work mainly with non-public customer code. For this reason, this blog is created. In the future, I will try to blog about various security topics that I encounter in my everyday life. The choice of topics may vary, but I will probably write about topics that I like to explore in my spare time like 0-days, N-days and CTFs.
