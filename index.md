@@ -1,5 +1,1 @@
-Here you can say lots of fun things about your site.
-
-Maybe say a some things about yourself.
-
-Or maybe what you plan to blog about.
+During my last job search, I noticed that degrees, certificates and professional experience are not always enough to find a new position. Often companies also want to see publications that demonstrate your technical skills. This can be challenging if you work a lot with non-public code. For this reason, this blog is created. In the future, I will try to blog about various security topics that I encounter in my everyday life.
